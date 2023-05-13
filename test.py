@@ -1,1 +1,1 @@
-“some test file”
+print('Hello')
